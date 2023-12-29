@@ -1,2 +1,3 @@
-# fpp3-notes-python
-Fpp3 Book Notes with R and Python codes (PT-BR)
+# fpp3 Book Notes
+
+Simple Fpp3 Book Notes and experiments with R and Python codes in (PT-BR)
